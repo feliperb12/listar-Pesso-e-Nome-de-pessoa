@@ -42,4 +42,4 @@ for p in lista:
     if p[1]==meno:
         print(f'{p[0]}')
         
-print('Ola essa é uma modificação em git')        
+   
